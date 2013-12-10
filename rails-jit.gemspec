@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kishorevlrtn@gmail.com"]
   spec.description   = %q{Install this gem to require all jit libraries into your application}
   spec.summary       = %q{rails-jit work as a wrapper for jit.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/kishore-mohan/rails-jit"
   spec.license       = "MIT"
 
   spec.rubyforge_project = "rails-jit"
